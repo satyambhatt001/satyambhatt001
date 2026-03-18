@@ -21,10 +21,23 @@ Research Intern @ NIT Patna
 ## Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-1813-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Codeforces-1445-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GFG-2008-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+
+<a href="https://leetcode.com/u/isatyambhatt/">
+<img src="https://img.shields.io/badge/LeetCode-1813-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/quagmiree">
+<img src="https://img.shields.io/badge/Codeforces-1445-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://www.codechef.com/users/codigo25_nope">
+<img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/satyambhatt?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2008-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
 </p>
 
 ---
@@ -32,7 +45,7 @@ Research Intern @ NIT Patna
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,redis,git,linux,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,redis,git,linux,html,css" />
 </p>
 
 ---
@@ -40,7 +53,7 @@ Research Intern @ NIT Patna
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/isatyambhatt?theme=dark&font=baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/isatyambhatt?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
@@ -48,11 +61,11 @@ Research Intern @ NIT Patna
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyambhatt001&show_icons=true&theme=tokyonight&cache_seconds=30" />
+<img src="https://github-readme-stats.vercel.app/api?username=satyambhatt001&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyambhatt001&layout=compact&theme=tokyonight&cache_seconds=30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyambhatt001&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -60,7 +73,7 @@ Research Intern @ NIT Patna
 ## Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyambhatt001&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=satyambhatt001&theme=tokyonight" />
 </p>
 
 ---
@@ -68,24 +81,23 @@ Research Intern @ NIT Patna
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyambhatt001&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyambhatt001&theme=react-dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satyambhatt001/satyambhatt001/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/satyambhatt001/satyambhatt001/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## Projects
 
-AI Chat Platform  
-Dashcam Risk Detection  
-EcoGallery 
-ML Crop Monitoring  
-Full Stack Web Apps  
+- AI Chat Platform  
+- Dashcam Risk Detection  
+- EcoGallery ML Crop Monitoring  
+- Full Stack Web Apps  
 
 ---
 
