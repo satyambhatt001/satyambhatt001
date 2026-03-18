@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyambhatt001&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=satyambhatt001&label=Profile%20views&color=00ff00&style=flat" />
 </p>
 
 ---
@@ -50,6 +50,14 @@ Research Intern @ NIT Patna
 
 ---
 
+## LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/isatyambhatt?theme=dark&font=baloo&ext=contest" />
+</p>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -70,21 +78,11 @@ Research Intern @ NIT Patna
 
 ---
 
-## Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satyambhatt001&theme=onedark"/>
-</p>
-
----
-
 ## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyambhatt001&theme=react-dark"/>
 
 ---
-
-## Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/satyambhatt001/satyambhatt001/output/github-contribution-grid-snake.svg" />
