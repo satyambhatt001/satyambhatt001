@@ -57,11 +57,11 @@ Research Intern @ NIT Patna
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=satyambhatt001&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=satyambhatt001&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyambhatt001&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyambhatt001&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -90,11 +90,42 @@ Research Intern @ NIT Patna
 
 ## Projects
 
-- AI Chat Platform  
-- Dashcam Risk Detection  
-- EcoGallery
-- ML Crop Monitoring  
-- Full Stack Web Apps  
+### AI Dashcam Risk Detection
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1CD__BQPI0NrIRiz0Y1lnJgHGhCvZFHot/view">
+<img src="https://drive.google.com/thumbnail?id=1CD__BQPI0NrIRiz0Y1lnJgHGhCvZFHot" width="600"/>
+</a>
+</p>
+
+- YOLOv8 based real-time risk detection  
+- 85% precision across 1000+ frames  
+
+---
+
+### ChatSphere (AI Chat Platform)
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1wDkQe6XNXHP_ePWdDkSH3790rKMA7E-O/view">
+<img src="https://drive.google.com/thumbnail?id=1wDkQe6XNXHP_ePWdDkSH3790rKMA7E-O" width="600"/>
+</a>
+</p>
+
+- Real-time chat with AI replies  
+- React, Node.js, Socket.io  
+
+---
+
+### EcoGallery ML Crop Monitoring
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1qLs2WlEiKMvOwSdLSRpUr6fKh2bNt5O3/view">
+<img src="https://drive.google.com/thumbnail?id=1qLs2WlEiKMvOwSdLSRpUr6fKh2bNt5O3" width="600"/>
+</a>
+</p>
+
+- ML-based crop monitoring  
+- NDVI time-series analysis  
 
 ---
 
