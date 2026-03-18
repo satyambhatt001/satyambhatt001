@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Satyam+Kumar;Competitive+Programmer;Full+Stack+Web+Developer;AI+%2F+ML+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Satyam+Kumar;Competitive+Programmer;Full+Stack+Web+Developer;AI+ML+Developer" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyambhatt001&label=Profile%20views&color=00ff00&style=flat" />
-</p>
 
 ---
 
@@ -35,7 +31,7 @@ Research Intern @ NIT Patna
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/satyambhatt?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2008-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GFG-2008-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 </p>
@@ -53,7 +49,7 @@ Research Intern @ NIT Patna
 ## LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/isatyambhatt?theme=dark&font=baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/isatyambhatt?theme=dark&ext=contest" />
 </p>
 
 ---
@@ -61,11 +57,11 @@ Research Intern @ NIT Patna
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=satyambhatt001&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=satyambhatt001&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyambhatt001&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyambhatt001&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
