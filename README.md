@@ -18,7 +18,7 @@ Research Intern @ NIT Patna
 
 ---
 
-## Coding Profiles
+## Competitive Programming
 
 <p align="center">
 
@@ -32,6 +32,10 @@ Research Intern @ NIT Patna
 
 <a href="https://www.codechef.com/users/codigo25_nope">
 <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/satyambhatt?tab=activity">
+<img src="https://img.shields.io/badge/GFG-2008-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 <a href="https://www.linkedin.com/in/satyam-kumar-1971aa347/">
@@ -94,8 +98,9 @@ Research Intern @ NIT Patna
 
 AI Chat Platform  
 Dashcam Risk Detection  
+EcoGallery
 ML Crop Monitoring  
-Full Stack Web Apps  
+
 
 ---
 
