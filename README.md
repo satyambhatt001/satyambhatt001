@@ -92,7 +92,8 @@ Research Intern @ NIT Patna
 
 - AI Chat Platform  
 - Dashcam Risk Detection  
-- EcoGallery ML Crop Monitoring  
+- EcoGallery
+- ML Crop Monitoring  
 - Full Stack Web Apps  
 
 ---
