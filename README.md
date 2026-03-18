@@ -116,7 +116,7 @@ Research Intern @ NIT Patna
 
 ---
 
-### EcoGallery ML Crop Monitoring
+### EcoGallery
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1qLs2WlEiKMvOwSdLSRpUr6fKh2bNt5O3/view">
@@ -124,8 +124,7 @@ Research Intern @ NIT Patna
 </a>
 </p>
 
-- ML-based crop monitoring  
-- NDVI time-series analysis  
+
 
 ---
 
