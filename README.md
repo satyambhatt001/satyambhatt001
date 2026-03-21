@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Satyam+Kumar;Competitive+Programmer;Full+Stack+Web+Developer;AI+ML+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Satyam+Kumar" />
 </h1>
-
 ---
 
 ## Satyam Kumar
