@@ -100,7 +100,7 @@ Research Intern @ NIT Patna
 </a>
 </p>
 
-- Real-time chat with AI replies  
+- Real-time chat app with AI replies  
 - React, Node.js, Socket.io  
 
 ---
