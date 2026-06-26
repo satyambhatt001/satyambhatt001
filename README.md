@@ -30,7 +30,7 @@ Research Intern @ NIT Patna
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/satyambhatt?tab=activity">
-<img src="https://img.shields.io/badge/GFG-2400-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GFG-2413-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 </p>
