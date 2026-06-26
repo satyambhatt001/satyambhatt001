@@ -18,19 +18,19 @@ Research Intern @ NIT Patna
 <p align="center">
 
 <a href="https://leetcode.com/u/isatyambhatt/">
-<img src="https://img.shields.io/badge/LeetCode-1831-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-1871-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://codeforces.com/profile/quagmiree">
-<img src="https://img.shields.io/badge/Codeforces-1445-blue?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-1473-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
 <a href="https://www.codechef.com/users/codigo25_nope">
-<img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodeChef-4★-brown?style=for-the-badge"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/satyambhatt?tab=activity">
-<img src="https://img.shields.io/badge/GFG-2251-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GFG-2400-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 </p>
