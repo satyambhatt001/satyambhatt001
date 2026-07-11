@@ -18,7 +18,7 @@ Research Intern @ NIT Patna
 <p align="center">
 
 <a href="https://leetcode.com/u/isatyambhatt/">
-<img src="https://img.shields.io/badge/LeetCode-1871-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-1900-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://codeforces.com/profile/quagmiree">
@@ -30,7 +30,7 @@ Research Intern @ NIT Patna
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/satyambhatt?tab=activity">
-<img src="https://img.shields.io/badge/GFG-2400-2E7D32?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GFG-2500-2E7D32?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 </p>
