@@ -5,11 +5,7 @@
 
 ## Satyam Kumar
 
-B.Tech IT — PCCOE Pune  
-Competitive Programmer  
-Full Stack Web Developer  
-AI / ML Developer  
-Research Intern @ NIT Patna  
+Hii there👋🏻
 
 ---
 
